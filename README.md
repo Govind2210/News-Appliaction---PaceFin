@@ -1,3 +1,3 @@
-# News-Appliaction---PaceFin
+# News-Application---PaceFin
 
 files are in master-Branch
